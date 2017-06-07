@@ -1,4 +1,4 @@
-## Description (samuel repo)
+## Description (samuel repo v0.1)
 
   * Simple golang app to test web containers
   * Using this in conjunction with Azure Container Service and CI/CD Jenkins demo
